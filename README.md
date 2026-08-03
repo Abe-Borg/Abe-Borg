@@ -1,6 +1,6 @@
 # Hi, I'm Abraham Borg
 
-**Fire Protection Engineer · Mechanical Designer · Software Developer · Spec Writer**
+**Fire Sprinkler Designer · Mechanical Designer · Software Developer · Spec Writer**
 
 I design wet-pipe fire sprinkler systems under NFPA 13 for nonresidential AEC projects across the U.S., with a focus on hyperscale data centers and California K-12. I also hold a B.S. in Computer Science, and I spend my off hours writing software — usually aimed at automating pieces of my own engineering work.
 

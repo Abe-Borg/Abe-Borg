@@ -1,14 +1,14 @@
 {
   "feed": "ew2026-grok-commentary",
-  "updated_at": "2026-11-03T21:56:00Z",
+  "updated_at": "2026-11-03T22:08:00Z",
   "items": [
     {
-      "id": "ew-0000-test",
-      "ts": "2026-11-03T21:56:00Z",
+      "id": "ew-0001",
+      "ts": "2026-11-03T22:08:00Z",
       "race_id": null,
       "prop_id": null,
       "label": "Grok commentary",
-      "text": "Feed online. This is a harmless test item — not a race call.",
+      "text": "Peanut gallery is open. CA polls still hours out — zeros before 8pm PT mean no votes reported, not a nail-biter. Pour coffee, not champagne.",
       "status": "pre-returns"
     }
   ]

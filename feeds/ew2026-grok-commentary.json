@@ -1,0 +1,15 @@
+{
+  "feed": "ew2026-grok-commentary",
+  "updated_at": "2026-11-03T21:56:00Z",
+  "items": [
+    {
+      "id": "ew-0000-test",
+      "ts": "2026-11-03T21:56:00Z",
+      "race_id": null,
+      "prop_id": null,
+      "label": "Grok commentary",
+      "text": "Feed online. This is a harmless test item — not a race call.",
+      "status": "pre-returns"
+    }
+  ]
+}

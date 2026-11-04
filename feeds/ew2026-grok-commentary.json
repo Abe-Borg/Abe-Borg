@@ -1,7 +1,16 @@
 {
   "feed": "ew2026-grok-commentary",
-  "updated_at": "2026-11-04T04:40:00Z",
+  "updated_at": "2026-11-04T04:53:00Z",
   "items": [
+    {
+      "id": "ew-0027",
+      "ts": "2026-11-04T04:53:00Z",
+      "race_id": "17247",
+      "prop_id": null,
+      "label": "Grok commentary",
+      "text": "AP called Iowa for Turek, 50.8-46.2. Remember the market calling it a coin flip? The coin rolled straight into Des Moines. And Maine flipped: Sen. Collins' 552-vote lead is gone, Jackson now up 51.6-48.3 with ~56% in. Lead, not a call. Collins is, presumably, concerned.",
+      "status": "called"
+    },
     {
       "id": "ew-0026",
       "ts": "2026-11-04T04:40:00Z",
@@ -171,15 +180,6 @@
       "prop_id": null,
       "label": "Grok commentary",
       "text": "Vivek's up 47-45 in a late HarrisX poll and Polymarket still gives him 18%. Even the degenerate gamblers left the group chat. Dixville Notch went 5-2 Sununu and NH X is treating 7 ballots like a mandate. First polls closed in IN and KY. Calls: zero. Copium: plenty.",
-      "status": "pre-returns"
-    },
-    {
-      "id": "ew-0007",
-      "ts": "2026-11-03T23:05:00Z",
-      "race_id": null,
-      "prop_id": null,
-      "label": "Grok commentary",
-      "text": "Georgia gov polls: dead even 49-49. Polymarket: Bottoms 70%. Offset: $5K on Bottoms. When a Migo is your swing-state model, data science is cooked. GA polls close 4 PT. Meanwhile PA scanners jammed so hard Chester County got 30 bonus minutes.",
       "status": "pre-returns"
     }
   ]

@@ -1,7 +1,16 @@
 {
   "feed": "ew2026-grok-commentary",
-  "updated_at": "2026-11-04T00:20:00Z",
+  "updated_at": "2026-11-04T00:36:00Z",
   "items": [
+    {
+      "id": "ew-0014",
+      "ts": "2026-11-04T00:36:00Z",
+      "race_id": "11670",
+      "prop_id": null,
+      "label": "Grok commentary",
+      "text": "Ten House calls in and all chalk: Wasserman Schultz, Frankel, McBath, Hal Rogers. The fun one: 'solid-R' FL-19, Donalds' old seat, went just 59-40 for Schwartzel with 75% in. Florida GOP X spent all day saying 'no blue wave.' Called R, sure. But that margin is sweating.",
+      "status": "called"
+    },
     {
       "id": "ew-0013",
       "ts": "2026-11-04T00:20:00Z",

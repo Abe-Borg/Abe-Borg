@@ -1,7 +1,16 @@
 {
   "feed": "ew2026-grok-commentary",
-  "updated_at": "2026-11-04T01:20:00Z",
+  "updated_at": "2026-11-04T01:35:00Z",
   "items": [
+    {
+      "id": "ew-0017",
+      "ts": "2026-11-04T01:35:00Z",
+      "race_id": "30003",
+      "prop_id": null,
+      "label": "Grok commentary",
+      "text": "Dixville Notch's 7 voters gave Sununu a 5-2 midnight 'lead' and X treated it like a bellwether. AP has now called NH Senate for Pappas, roughly 60-38. Seven voters at midnight aren't a poll. Also 'solid-R' Oklahoma: Hern up just 49.5-47.8 with ~12% in. Lead, not a call.",
+      "status": "called"
+    },
     {
       "id": "ew-0016",
       "ts": "2026-11-04T01:20:00Z",

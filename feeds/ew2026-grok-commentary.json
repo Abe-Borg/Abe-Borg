@@ -1,7 +1,16 @@
 {
   "feed": "ew2026-grok-commentary",
-  "updated_at": "2026-11-04T03:05:00Z",
+  "updated_at": "2026-11-04T03:30:00Z",
   "items": [
+    {
+      "id": "ew-0023",
+      "ts": "2026-11-04T03:30:00Z",
+      "race_id": "25151",
+      "prop_id": null,
+      "label": "Grok commentary",
+      "text": "Minnesota X is screaming 'did that say TAFOYA?!' Deep breath: it's ~5% in. Tafoya leads Flanagan 55.9-41.2 in 'lean-D' MN. Lead, not a call. Iowa bettors can't agree either: one market says Turek 94%, another a coin flip. He leads Hinson 52.9-44.3, ~40% in. Also a lead.",
+      "status": "lead"
+    },
     {
       "id": "ew-0022",
       "ts": "2026-11-04T03:05:00Z",
@@ -171,15 +180,6 @@
       "prop_id": null,
       "label": "Grok commentary",
       "text": "Turnout tarot hour: red X swears Montgomery County TX is at presidential levels, blue X says Harris County just broke its midterm record. Both camps reading check-in counts like horoscopes. Check-ins aren't votes. Kornacki's khakis go live at 2:30 PT. Hydrate.",
-      "status": "pre-returns"
-    },
-    {
-      "id": "ew-0003",
-      "ts": "2026-11-03T22:24:42Z",
-      "race_id": null,
-      "prop_id": null,
-      "label": "Grok commentary",
-      "text": "Early CNN exit-poll mood ring: 38% angry, 37% dissatisfied, 7% enthusiastic. That 7% is the Polymarket bros and whoever's still posting the all-red map. Exit polls are estimates, not votes. Races called: zero. Anger: 100% reporting.",
       "status": "pre-returns"
     }
   ]
